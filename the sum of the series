@@ -1,0 +1,43 @@
+//write a c sharp program to find the sum of the series [x-x^3+x^5-x^7+x^9-...] using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Enter the value of x: ");
+        double x;
+        if (double.TryParse(Console.ReadLine(), out x))
+        {
+            Console.Write("Enter the number of terms: ");
+            int numberOfTerms;
+            if (int.TryParse(Console.ReadLine(), out numberOfTerms))
+            {
+                double sum = CalculateSeriesSum(x, numberOfTerms);
+                Console.WriteLine($"The sum of the series is: {sum}");
+            }
+            else
+            {
+                Console.WriteLine("Invalid input for the number of terms. Please enter a valid integer.");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Invalid input for the value of x. Please enter a valid number.");
+        }
+    }
+
+    static double CalculateSeriesSum(double x, int numberOfTerms)
+    {
+        double sum = 0;
+        bool subtract = false;
+
+        for (int i = 0; i < numberOfTerms; i++)
+        {
+            double term = subtract ? -Math.Pow(x, 2 * i + 1) : Math.Pow(x, 2 * i + 1);
+            sum += term;
+            subtract = !subtract;
+        }
+
+        return sum;
+    }
+}

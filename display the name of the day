@@ -1,0 +1,32 @@
+//write a sharp program to read any day number as an integer and display the name of the day as a word using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Enter a day number (1 for Monday, 2 for Tuesday, etc.): ");
+        int dayNumber;
+        if (int.TryParse(Console.ReadLine(), out dayNumber))
+        {
+            if (dayNumber >= 1 && dayNumber <= 7)
+            {
+                string dayName = GetDayName(dayNumber);
+                Console.WriteLine($"The day is {dayName}");
+            }
+            else
+            {
+                Console.WriteLine("Invalid day number. Please enter a number between 1 and 7.");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer.");
+        }
+    }
+
+    static string GetDayName(int dayNumber)
+    {
+        DateTime date = new DateTime(2023, 1, dayNumber);
+        return date.ToString("dddd");
+    }
+}

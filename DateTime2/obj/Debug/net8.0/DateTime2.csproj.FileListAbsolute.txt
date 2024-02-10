@@ -1,0 +1,14 @@
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\bin\Debug\net8.0\DateTime2.exe
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\bin\Debug\net8.0\DateTime2.deps.json
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\bin\Debug\net8.0\DateTime2.runtimeconfig.json
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\bin\Debug\net8.0\DateTime2.dll
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\bin\Debug\net8.0\DateTime2.pdb
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\obj\Debug\net8.0\DateTime2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\obj\Debug\net8.0\DateTime2.AssemblyInfoInputs.cache
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\obj\Debug\net8.0\DateTime2.AssemblyInfo.cs
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\obj\Debug\net8.0\DateTime2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\obj\Debug\net8.0\DateTime2.dll
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\obj\Debug\net8.0\refint\DateTime2.dll
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\obj\Debug\net8.0\DateTime2.pdb
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\obj\Debug\net8.0\DateTime2.genruntimeconfig.cache
+C:\Users\ASUS EXPERT BOOK\source\repos\DateTime2\obj\Debug\net8.0\ref\DateTime2.dll

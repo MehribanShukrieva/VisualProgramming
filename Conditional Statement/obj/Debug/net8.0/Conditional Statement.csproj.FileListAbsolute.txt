@@ -1,0 +1,14 @@
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\bin\Debug\net8.0\Conditional Statement.exe
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\bin\Debug\net8.0\Conditional Statement.deps.json
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\bin\Debug\net8.0\Conditional Statement.runtimeconfig.json
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\bin\Debug\net8.0\Conditional Statement.dll
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\bin\Debug\net8.0\Conditional Statement.pdb
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\obj\Debug\net8.0\Conditional Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\obj\Debug\net8.0\Conditional Statement.AssemblyInfoInputs.cache
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\obj\Debug\net8.0\Conditional Statement.AssemblyInfo.cs
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\obj\Debug\net8.0\Conditional Statement.csproj.CoreCompileInputs.cache
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\obj\Debug\net8.0\Conditional Statement.dll
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\obj\Debug\net8.0\refint\Conditional Statement.dll
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\obj\Debug\net8.0\Conditional Statement.pdb
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\obj\Debug\net8.0\Conditional Statement.genruntimeconfig.cache
+D:\uni\2nd year\1st semester\visual programming\Conditional Statement\obj\Debug\net8.0\ref\Conditional Statement.dll
